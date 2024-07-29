@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entities
+namespace Entities.Concrete.Laptop___Desktop
 {
-    internal class Yoxlama
+    public class ElectronicsAccessories : Product
     {
     }
 }
