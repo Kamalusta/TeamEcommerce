@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Business.test
+namespace Business.Abstract
 {
-    internal class Test
+    public interface ICategoryService
     {
     }
 }
