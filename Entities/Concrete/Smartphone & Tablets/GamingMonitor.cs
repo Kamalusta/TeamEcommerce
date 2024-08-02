@@ -8,5 +8,7 @@ namespace Entities.Concrete
 {
     public class GamingMonitor : Product
     {
+        public double MonitorHz { get; set; }
+        public double MonitorMs { get; set; }
     }
 }

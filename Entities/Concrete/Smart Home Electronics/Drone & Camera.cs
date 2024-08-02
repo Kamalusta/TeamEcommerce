@@ -8,5 +8,6 @@ namespace Entities.Concrete.Smart_Home_Electronics
 {
     public class Drone___Camera : Product
     {
+        public double CameraResolution { get; set; }
     }
 }

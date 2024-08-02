@@ -19,5 +19,8 @@ namespace Entities.Concrete
         public bool IsDelivery { get; set; }
         public bool IsDiscount { get; set; }
         public double DiscountPrice { get; set; }
+        public bool HasWarranty { get; set; }
+        public string Color { get; set; }
+        public ProductCategory Category { get; set; }
     }
 }
